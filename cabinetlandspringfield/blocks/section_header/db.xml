@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<schema version="0.3">
+    <table name="btSectionHeader">
+        <field name="bID" type="I">
+            <key ></key>
+            <unsigned ></unsigned>
+        </field>
+        <field name="heading" type="C" size="200"></field>
+    </table>
+</schema>
